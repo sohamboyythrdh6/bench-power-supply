@@ -8,7 +8,7 @@ yes you can get some readymade powersupply on marker but if you can build someth
 ths project is powerd by high voltage so be careful while working and if you not professinol so take help others.
 
 to build this project you need to arrange the parts and print all the 3d modules later connect all the wire as the wiring diagram said after all that assembel everything and you are ready to go connect the connectors and enjoy you can adjust dc votage by the knob .
-<details>
+
 <summary>📦 Bill of Materials (BOM)</summary>
 
 | Component | Purpose | Qty | Cost (USD) | Distributor |
