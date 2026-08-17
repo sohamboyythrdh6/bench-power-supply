@@ -26,7 +26,7 @@ to build this project you need to arrange the parts and print all the 3d modules
 | XT60 Connector Pair | High-current connections | 2 | $1.26 | Robu.in |
 | 10AWG Silicone Copper Wire | Internal high-current wiring | 2 | $1.15 | Robu.in |
 | 5A Diode | Protects against voltage spikes | 1 | $0.62 | Robu.in |
-| 3D Printed Enclosure Parts | Forms the project enclosure | 11 | $19.00 | Robu.in |
+| 3D Printed Enclosure Parts | For the project enclosure | 11 | 0 | Printing legion |
 
 **Total Estimated Cost:** **$123.00 USD**
 
