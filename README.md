@@ -28,6 +28,6 @@ to build this project you need to arrange the parts and print all the 3d modules
 | 5A Diode | Protects against voltage spikes | 1 | $0.62 | Robu.in |
 | 3D Printed Enclosure Parts | For the project enclosure | 11 | 0 | Printing legion |
 
-**Total Estimated Cost:** **$123.00 USD**
+**Total Estimated Cost:** **$110.00 USD**
 
 
