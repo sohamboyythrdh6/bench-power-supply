@@ -1,18 +1,18 @@
-# bench-power-supply
-a variable dc power supply that can help you to power your prototypes
+Bench Power Supply 
+A variable DC power supply that can help you power your prototypes.
 
 <img width="272" height="221" alt="Screenshot 2026-07-09 215411" src="https://github.com/user-attachments/assets/3552a768-cbec-4cd9-8586-7be936a250a9" />
 
-yes you can get some readymade power supply on marker but if you can build something so why need to buy this project is basically for those who interested to build iot projects and electronics they can learn something
+Yes, you can get a readymade power supply on the market, but if you can build one, why buy it? This project is basically for those who are interested in building IoT projects and electronics so they can learn something.
                                              warning
-this project is powered by high voltage so be careful while working and if you not professional so take help others.
+Warning: This project involves working with high-voltage AC mains power, which carries a risk of electric shock or fire. It is essential to follow all local electrical codes and safety regulations. Always wear appropriate personal protective equipment (PPE), such as insulated gloves and safety glasses, and ensure the device is unplugged before touching any internal components. If you are not a licensed professional or experienced with high-voltage wiring, please seek help from a qualified individual to ensure the build is safe and properly grounded.
 
-to build this project you need to arrange the parts and print all the 3d modules later connect all the wire as the wiring diagram said 
+To build this project, you need to gather the parts and print all the 3D modules. Later, connect all the wires as shown in the wiring diagram, ensuring all connections are secure and properly insulated.
 
 <img width="5000" height="3500" alt="Untitled_Artwork (3)" src="https://github.com/user-attachments/assets/4494d814-ce9a-4ae9-9fbf-059e26afac38" />
 
 
-after all that assemble everything and you are ready to go connect the connectors and enjoy you can adjust dc voltage by the knob .
+After all that, assemble everything into the enclosure. Once the unit is safely closed and inspected, you are ready to go. Connect the connectors and enjoy! You can adjust the DC voltage using the knob. .
 
 <summary>📦 Bill of Materials (BOM)</summary>
 
