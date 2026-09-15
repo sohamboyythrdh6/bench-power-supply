@@ -11,6 +11,9 @@ To build this project, you need to gather the parts and print all the 3D modules
 
 <img width="5000" height="3500" alt="Untitled_Artwork (3)" src="https://github.com/user-attachments/assets/4494d814-ce9a-4ae9-9fbf-059e26afac38" />
 
+<img width="2250" height="4000" alt="IMG_20260913_124614" src="https://github.com/user-attachments/assets/4b03cf55-4334-48a8-b27a-85e200868fd3" />
+
+
 
 After all that, assemble everything into the enclosure. Once the unit is safely closed and inspected, you are ready to go. Connect the connectors and enjoy! You can adjust the DC voltage using the knob. .
 
